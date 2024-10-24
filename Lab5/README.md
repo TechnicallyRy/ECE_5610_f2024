@@ -128,7 +128,8 @@ scope_84:
 scope_85:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 40kHz
 - Ch2: Output Voltage measure across V2+ and COM
-***Discontinuous Conduction Mode due to "flat" valley peaks: Load Resistance=
+***Discontinuous Conduction Mode due to "flat" valley peaks:
+  Load Resistance = 28.7 Ω for DCM
 
 
 
