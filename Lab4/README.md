@@ -76,7 +76,7 @@ scope_59:
 - Ch2: Output voltage measured at load resistor
 
 - scope_60:
-- Ch1: PWM reference measurement of Power Pole Board @ 100kHz
+- Ch1: PWM reference measurement of Power Pole Board @ 60kHz
 - Ch2: Output voltage measured at load resistor
 
 **Used recorded measured values of 50% duty from section 4.4.1 for calculations of 100kHz
