@@ -46,7 +46,7 @@ scope_39:
 - Ch2: Anode-Cathode Voltage of lower diode
 
 scope_40:
-- Using cursor to measure peak flat voltage
+- Using cursor to measure minimum flat voltage
 - Ch1: PWM reference measurement of Power Pole Board
 - Ch2: Anode-Cathode Voltage of lower diode
 
