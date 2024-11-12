@@ -6,3 +6,4 @@ ECE-5610 Lab Coursework Files
 - Lab-3: Buck Converter: MOSFET Analysis
 - Lab-4: Boost Converter
 - Lab-5: Buck-Boost Converter
+- Lab-6: Lab 6 Feedback Control-Boost Converter
