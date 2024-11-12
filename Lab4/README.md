@@ -28,7 +28,7 @@ scope_53:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 40% @ 100kHz
 - Ch2: Ouput Voltage measure across load resistor
 
-scope_55:
+scope_54:
 - Ch1: PWM reference measurement of Power Pole Board -> Duty 60% @ 100kHz
 - Ch2: Ouput Voltage measure across load resistor
 
